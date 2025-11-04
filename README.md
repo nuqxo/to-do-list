@@ -39,14 +39,6 @@ Clean UI, smooth animations and simple interactions.
 
 ---
 
-## ✅ Future Improvements (optional)
-- Dark/Light theme switch  
-- Sort tasks (completed to bottom)  
-- Edit tasks  
-- Animations on delete
-
----
-
 ## 👤 Author
 Made by **Nuqxo**  
 GitHub: https://github.com/nuqxo
