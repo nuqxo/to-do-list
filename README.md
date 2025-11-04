@@ -1,0 +1,55 @@
+# ✅ To-Do List Web App
+
+A minimal and modern To-Do List built with **HTML, CSS and JavaScript**.  
+Tasks are stored in **localStorage**, so the list stays saved even after closing the browser.  
+Clean UI, smooth animations and simple interactions.
+
+---
+
+## ✅ Features
+✔ Add new tasks  
+✔ Mark tasks as completed  
+✔ Delete tasks  
+✔ Tasks saved in localStorage (persistent)  
+✔ Minimal, aesthetic UI  
+✔ Smooth fade-in animation for new tasks  
+
+---
+
+## 🛠 Technologies
+- HTML
+- CSS
+- JavaScript (DOM + localStorage)
+
+---
+
+## 📌 How it works
+1. Type a task in the input box  
+2. Click "+" to add  
+3. Click the task to mark it as done  
+4. Click "✖" to delete  
+5. All tasks stay saved locally
+
+---
+
+## 📁 Project Structure
+/index.html
+/style.css
+/app.js
+
+yaml
+Copy code
+
+---
+
+## ✅ Future Improvements (optional)
+- Dark/Light theme switch  
+- Sort tasks (completed to bottom)  
+- Edit tasks  
+- Animations on delete
+
+---
+
+## 👤 Author
+Made by **Nuqxo**  
+GitHub: https://github.com/nuqxo
