@@ -10,7 +10,7 @@ Clean UI, smooth animations and simple interactions.
 ✔ Add new tasks  
 ✔ Mark tasks as completed  
 ✔ Delete tasks  
-✔ Tasks saved in localStorage (persistent)  
+✔ Tasks saved in localStorage 
 ✔ Minimal, aesthetic UI  
 ✔ Smooth fade-in animation for new tasks  
 
