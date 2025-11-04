@@ -37,9 +37,6 @@ Clean UI, smooth animations and simple interactions.
 /style.css
 /app.js
 
-yaml
-Copy code
-
 ---
 
 ## ✅ Future Improvements (optional)
