@@ -1,3 +1,4 @@
+<img width="1594" height="1078" alt="image" src="https://github.com/user-attachments/assets/3bc44720-837f-406f-83a8-28f6b563e499" />
 # ✅ To-Do List Web App
 
 A minimal and modern To-Do List built with **HTML, CSS and JavaScript**.  
