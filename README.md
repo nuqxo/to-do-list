@@ -1,4 +1,4 @@
-<img width="1593" height="1071" alt="image" src="https://github.com/user-attachments/assets/64045d1f-979e-4a54-8ed8-dcbc70bec5d3" />
+<img width="1585" height="1071" alt="image" src="https://github.com/user-attachments/assets/aa0513eb-dd96-4665-a699-dc2598be14ab" />
 
 # ✅ To-Do List Web App
 
